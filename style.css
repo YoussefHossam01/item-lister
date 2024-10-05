@@ -87,8 +87,8 @@ input{
 
 #items .btn{
     background-color: red;
-    width: auto;
-    height:auto;
+    width: 15px;
+    height:15px;
     padding: 3px;
     margin: 5px;
     font-size: small;
