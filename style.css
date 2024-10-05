@@ -61,6 +61,7 @@ input{
     color: white;
     width: 100px;
     cursor:pointer;
+    font-size: medium;
 }
 
 .list-group-item{
